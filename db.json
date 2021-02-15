@@ -1,9 +1,9 @@
 
 {
   "cards": [
-    { "id": 1, "title": "Post 1", "description": "this is description " },
-    { "id": 2, "title": "Post 2", "description": "this is description 2" },
-    { "id": 3, "title": "Post 3", "description": "this is description 3" }
+    { "id": 1, "name": "Post 1", "description": "this is description " },
+    { "id": 2, "name": "Post 2", "description": "this is description 2" },
+    { "id": 3, "name": "Post 3", "description": "this is description 3" }
   ],
   "comments": [
     { "id": 1, "body": "comment 1", "postId": 1 },
