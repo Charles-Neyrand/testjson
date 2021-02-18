@@ -1,5 +1,5 @@
 {
-  "cards":{ 
+  "cards":[ 
   "cartes" :
   [
      {"Id": 1, "Name": "Post 1", "Type" : "C", "Color": "blue","Power" : 50000 },
@@ -7,7 +7,7 @@
     { "Id": 3, "Name": "Post 3", "Type" : "L", "Color": "red", "Power" : 5000 }
    
   ]
-  }
+  ]
   
 }
 
