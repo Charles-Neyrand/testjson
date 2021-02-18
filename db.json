@@ -1,11 +1,13 @@
 {
-  "cards": 
+  "cards":{ 
+  "cartes" :
   [
      {"Id": 1, "Name": "Post 1", "Type" : "C", "Color": "blue","Power" : 50000 },
     { "Id": 2, "Name": "Post 2", "Type" : "S", "Color": "red", "Power" : 500 },
     { "Id": 3, "Name": "Post 3", "Type" : "L", "Color": "red", "Power" : 5000 }
    
   ]
+  }
   
 }
 
